@@ -4,6 +4,6 @@
 ```javascript
 const josef = {
   code: [HTML, CSS, Javascript],
-  tools: [React, Git],
+  tools: [React, Git, Figma],
 }
 ```
