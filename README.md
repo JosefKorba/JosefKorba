@@ -3,7 +3,12 @@
 
 ```javascript
 const josef = {
-  code: [HTML, CSS, Javascript],
-  tools: [React, Git, Figma],
-}
+  name: "Josef",
+  interests: ["Frontend Development"],
+  languages: ["HTML", "CSS", "JavaScript"],
+  libraries: ["React"],
+  tools: ["Git", "Figma"],
+  buildTools: ["Vite"],
+  styling: ["CSS Modules"]
+};
 ```
