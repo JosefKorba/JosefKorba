@@ -5,10 +5,10 @@
 const josef = {
   name: "Josef",
   interests: ["Frontend Development"],
-  languages: ["HTML", "CSS", "JavaScript"],
+  languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
   libraries: ["React"],
   tools: ["Git", "Figma"],
   buildTools: ["Vite"],
-  styling: ["CSS Modules"]
+  styling: ["CSS Modules", "Bootstrap", "Tailwind"]
 };
 ```
