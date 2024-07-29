@@ -9,6 +9,6 @@ const josef = {
   libraries: ["React"],
   tools: ["Git", "Figma"],
   buildTools: ["Vite"],
-  styling: ["CSS Modules", "Bootstrap", "Tailwind"]
+  styling: ["CSS Modules", "Bootstrap", "Tailwind", ChakraUI]
 };
 ```
